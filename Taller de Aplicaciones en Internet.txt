@@ -10,3 +10,13 @@ Kanban
 Scrum
 Lean
 Desarrollo basado en características (FDD)
+
+Metodologias agiles
+
+    Scrum.
+    Programación extrema (XP)
+    Desarrollo de software adaptativo (ASD)
+    Método de desarrollo dinámico de software (DSDM)
+    Desarrollo impulsado por las características (FDD)
+    Kanban.
+    Desarrollo orientado al comportamiento (BDD)
