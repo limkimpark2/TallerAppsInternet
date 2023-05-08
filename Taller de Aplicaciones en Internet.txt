@@ -1,0 +1,12 @@
+Metodologias Tradicionales:
+Espiral
+Cascada
+Prototipo
+Incremental
+Desarrollo rápido de aplicaciones (RAD)
+Metodologías ágiles
+Programación extrema (XP)
+Kanban
+Scrum
+Lean
+Desarrollo basado en características (FDD)
